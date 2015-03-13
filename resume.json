@@ -1,0 +1,98 @@
+{
+  "basics": {
+    "name": "Markus Vieghofer",
+    "label": "Software Developer",
+    "picture": "http://www.gravatar.com/avatar/d01a62eb3e3e3520564c635ca3d0953b.png",
+    "email": "markus.vieghofer@gmail.com",
+    "website": "http://markusvieghofer.at",
+    "summary": "Blah",
+    "location": {
+      "postalCode": "4060",
+      "city": "Leonding",
+      "countryCode": "AT",
+      "region": "Upper Austria"
+    },
+    "profiles": [
+      {
+        "network": "Twitter",
+        "username": "mvieghofer",
+        "url": "https://twitter.com/mvieghofer"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "mvieghofer",
+        "url": "https://www.linkedin.com/in/mvieghofer"
+      },
+      {
+        "network": "Github",
+        "username": "mvieghofer",
+        "url": "https://github.com/mvieghofer"
+      },
+      {
+        "network": "XING",
+        "username": "Markus Vieghofer",
+        "url": "https://www.xing.com/profile/Markus_Vieghofer"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "NTS New Technology Systems GmbH",
+      "position": "Software Engineer",
+      "website": "http://www.ntsretail.com/",
+      "startDate": "19.08.2013",
+      "endDate": "now",
+      "summary": "Infrastructure Frameworks",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "University of Applied Sciences Upper Austria",
+      "area": "Software Engineering",
+      "studyType": "Bachelor",
+      "startDate": "10.2008",
+      "endDate": "06.2011",
+      "gpa": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Software Development",
+      "level": "Master",
+      "keywords": [
+        "Java",
+        "Android",
+        "C#"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Fluent"
+    },
+    {
+      "language": "German",
+      "fluency": "Native Speaker"
+    },
+    {
+      "language": "Spanish",
+      "fluency": "Basics"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Sport",
+      "keywords": [
+        "Fitness",
+        "Running"
+      ]
+    }
+  ],
+  "references": []
+}
