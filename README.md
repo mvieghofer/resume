@@ -1,2 +1,2 @@
-# resume
-My CV
+# README
+Here you will find the source files to my cv.
