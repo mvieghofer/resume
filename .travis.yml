@@ -1,0 +1,9 @@
+language: node_js
+node_js:
+  - "0.12"
+  
+install:
+  - npm install
+  
+test_script:
+  - node .\node_modules\resume-cli\index.js export index -f html --theme flatphill
